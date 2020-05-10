@@ -1,7 +1,11 @@
+[filter "lfs"]
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
 [user]
-	name = b1f6c1c4
-	email = b1f6c1c4@gmail.com
-	signingKey = 56E8F3660C5EA492F1B47251B733A45639BA98FF
+	name = IoriOikawa
+	email = iorioikawa@yahoo.co.jp
 [sendpack]
 	sideband = false
 [core]
