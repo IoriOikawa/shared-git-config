@@ -6,6 +6,7 @@
 [user]
 	name = IoriOikawa
 	email = iorioikawa@yahoo.co.jp
+	signingKey = EB2EADB3DC245AAC30DD324B016A72796EE73522
 [sendpack]
 	sideband = false
 [core]
